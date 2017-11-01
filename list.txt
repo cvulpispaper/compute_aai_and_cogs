@@ -1,0 +1,4 @@
+coli.faa
+concisus.faa                                                           
+curvus.faa
+fetus.faa  
